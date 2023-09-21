@@ -1,4 +1,4 @@
-package ex01;
+package nio2_exercises;
 
 import java.io.File;
 import java.io.IOException;
@@ -56,8 +56,4 @@ public class ex01 {
             }
         }
     }
-
-    // ex 04
-
-
 }
