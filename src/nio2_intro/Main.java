@@ -1,4 +1,4 @@
-package nio2intro;
+package nio2_intro;
 
 public class Main {
     public static void main(String[] args) {
